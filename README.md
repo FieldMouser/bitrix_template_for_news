@@ -8,5 +8,6 @@
 Сам шаблон был назван `news.list`
 
 Итоговый внешний вид новостей с этим шаблоном:
-![изображение](https://github.com/user-attachments/assets/77cba532-a90a-4953-a1f7-fbd670c700cb)
+![Запись экрана от 2024-11-06 15-45-10](https://github.com/user-attachments/assets/d286f939-e0eb-49e3-b633-8f36fb7a6230)
+
 
