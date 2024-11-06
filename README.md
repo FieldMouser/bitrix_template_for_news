@@ -1,0 +1,1 @@
+# bitrix_template_for_news
